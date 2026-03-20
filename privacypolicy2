@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Credit Rakshak - Privacy Policy</title>
+
+<style>
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+    background: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.7;
+}
+
+header {
+    text-align: center;
+    padding: 40px 10px;
+    background-color: #14DDA4;
+    color: #fff;
+}
+
+header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 18px;
+    opacity: 0.9;
+}
+
+section {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 0 10px;
+}
+
+h2 {
+    color: #14DDA4;
+    font-size: 24px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+h3 {
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #14DDA4;
+}
+
+p, li {
+    font-size: 16px;
+    margin-bottom: 12px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+.footer {
+    text-align: center;
+    padding: 25px 10px;
+    font-size: 14px;
+    color: #777;
+    margin-top: 40px;
+}
+
+/* MOBILE */
+@media(max-width:600px){
+    header h1 {
+        font-size: 28px;
+    }
+    header p {
+        font-size: 16px;
+    }
+    h2 {
+        font-size: 20px;
+    }
+    h3 {
+        font-size: 16px;
+    }
+    p, li {
+        font-size: 15px;
+    }
+}
+</style>
+
+</head>
+<body>
+
+<header>
+<h1>Privacy Policy</h1>
+<p>Credit Rakshak</p>
+</header>
+
+<section>
+<p><strong>Effective Date:</strong> March 2, 2026</p>
+
+<p>
+Credit Rakshak ("we", "our", or "us") is developed and operated by <strong>SingoEdan</strong>. 
+We are committed to protecting your personal information and complying with applicable data protection regulations. 
+This Privacy Policy explains how we collect, use, store, transmit, and protect your data when you use the Credit Rakshak mobile application.
+</p>
+
+<h2>1. Overview</h2>
+<p>
+Credit Rakshak provides users in India with tools to estimate and evaluate their credit score based on personal, financial, and device-related data. 
+Our goal is to provide accurate credit assessments while maintaining the highest standards of privacy and security.
+</p>
+
+<h2>2. Information We Collect</h2>
+
+<h3>Personal Information</h3>
+<p>
+We may collect personal information directly provided by you, including but not limited to:
+</p>
+<ul>
+<li>Full name and contact information (phone number, email)</li>
+<li>Identification documents such as PAN card photos</li>
+<li>Permanent city or location information</li>
+<li>Employment, income, and KYC-related information</li>
+</ul>
+
+<h3>Device and Usage Information</h3>
+<p>
+We may automatically collect information about your device and app usage to provide better service, including:
+</p>
+<ul>
+<li>Device identifiers, model, and operating system version</li>
+<li>Network operator and connectivity data</li>
+<li>App usage logs and analytics for service improvement</li>
+</ul>
+
+<h2>3. KYC and Financial Information</h2>
+<p>
+To generate accurate credit assessments, we may collect additional information as part of the Know Your Customer (KYC) process, such as:
+</p>
+<ul>
+<li>Residence type</li>
+<li>Employment type and job level</li>
+<li>Education level</li>
+<li>Expected loan amount</li>
+<li>Loan purpose</li>
+<li>Marital status</li>
+<li>Monthly income range</li>
+<li>Number of dependents</li>
+<li>Payment method and emergency contact relationship</li>
+<li>Religious belief (optional)</li>
+<li>Employment status and years of employment</li>
+</ul>
+
+<h2>4. App Permissions</h2>
+
+<h3>Location</h3>
+<p>
+Location helps us verify city information and detect abnormal login activity for security purposes. 
+Location data is encrypted and used exclusively for risk assessment and security.
+</p>
+
+<h3>Camera & Photo Gallery</h3>
+<p>
+Used to capture or upload identification documents for verification. Images are encrypted during transmission and storage, and will not be shared with third parties.
+</p>
+
+<h3>Device Phone Status</h3>
+<p>
+Information such as device identifier and phone status helps prevent fraud and ensures accurate identity verification.
+</p>
+
+<h2>5. Data Transmission and Encryption</h2>
+<p>
+Collected data may be transmitted to our secure server at <strong>https://crsk29.com</strong>. 
+All sensitive data is encrypted using <strong>AES encryption</strong> to ensure confidentiality and prevent unauthorized access.
+</p>
+
+<h2>6. How We Use Your Information</h2>
+<p>
+We use your data for the following purposes:
+</p>
+<ul>
+<li>Identity verification</li>
+<li>Credit score calculation and financial risk assessment</li>
+<li>Fraud detection and account security</li>
+<li>Service improvement and analytics</li>
+<li>Compliance with legal obligations</li>
+</ul>
+
+<h2>7. Data Sharing</h2>
+<p>
+We do not sell or rent your personal information. Data may be shared only when required for service operation or as mandated by law. 
+Third-party service providers may process data on our behalf under strict confidentiality agreements.
+</p>
+
+<h2>8. Data Retention</h2>
+<p>
+We retain personal data only as long as necessary to provide our services or meet legal requirements. 
+Once data is no longer needed, it is securely deleted or anonymized.
+</p>
+
+<h2>9. Your Rights</h2>
+<p>
+You have the right to access, update, or delete your personal data. You may also withdraw consent for certain data processing activities. 
+For assistance, please contact us at <strong>multimediakaneta@gmail.com</strong>.
+</p>
+
+<h2>10. Children's Privacy</h2>
+<p>
+Credit Rakshak is not intended for individuals under 18 years old. 
+We do not knowingly collect information from children.
+</p>
+
+<h2>11. Contact Information</h2>
+<p>
+If you have questions about this Privacy Policy or how we handle your data, contact:
+</p>
+<p>
+<strong>Developer:</strong> SingoEdan<br>
+<strong>Email:</strong> multimediakaneta@gmail.com
+</p>
+
+</section>
+
+<div class="footer">
+© 2026 Credit Rakshak. All rights reserved.
+</div>
+
+</body>
+</html>
